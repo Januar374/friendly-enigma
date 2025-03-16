@@ -1,1 +1,1 @@
-![Logo](logo.webp)
+![Logo](logo.png)
